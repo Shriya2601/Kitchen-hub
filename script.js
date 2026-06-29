@@ -1,0 +1,1 @@
+document.querySelectorAll('button').forEach(b=>b.onclick=()=>alert('Ordering feature coming soon!'));
